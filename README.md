@@ -1,2 +1,4 @@
 # Construction-Dasboard
-Simple dashboard for construction related applications
+Created a simple dashboard for construction related things
+Firstly login page 
+Then Dashboard
